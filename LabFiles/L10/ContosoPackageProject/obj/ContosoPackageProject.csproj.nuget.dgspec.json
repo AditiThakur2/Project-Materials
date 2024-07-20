@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\LabFiles\\L10\\ContosoPackageProject\\ContosoPackageProject.csproj": {}
+  },
+  "projects": {
+    "C:\\LabFiles\\L10\\ContosoPackageProject\\ContosoPackageProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LabFiles\\L10\\ContosoPackageProject\\ContosoPackageProject.csproj",
+        "projectName": "ContosoPackageProject",
+        "projectPath": "C:\\LabFiles\\L10\\ContosoPackageProject\\ContosoPackageProject.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\LabFiles\\L10\\ContosoPackageProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.CrmSdk.CoreAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2.*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Plugin": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

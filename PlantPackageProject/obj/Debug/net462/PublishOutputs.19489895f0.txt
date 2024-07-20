@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\PlantPackageProject\bin\Debug\net462\publish\PlantPackageProject.dll
+C:\Users\Admin\Documents\PlantPackageProject\bin\Debug\net462\publish\PlantPackageProject.pdb
